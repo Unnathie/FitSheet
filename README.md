@@ -20,9 +20,7 @@ No fitness app, no ads, just your terminal + a little bit of Python magic.
    ```bash
    git clone https://github.com/Unnathie/FitSheet.git
    cd FitSheet
-  ```
-````
-
+   ```
 2. Install dependencies:
 
    ```bash
