@@ -50,10 +50,8 @@ No fitness app, no ads, just your terminal + a little bit of Python magic.
 ```
 What exercise did you do and for how long? (e.g., '30 min running') running 1 hour
 {"workout": {"date":"2025-08-26","time":"15:42:10","exercise":"running","duration":60,"calories":500}}
-<img width="627" height="76" alt="image" src="https://github.com/user-attachments/assets/9455f118-f110-4de6-904a-526985a43b78" />
-
 ```
-
+<img width="627" height="76" alt="image" src="https://github.com/user-attachments/assets/9455f118-f110-4de6-904a-526985a43b78" />
 ---
 
 ## 🤓 Why?
